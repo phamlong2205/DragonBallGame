@@ -1,0 +1,14 @@
+D:\Swinburne\OOP\Projects\DragonBallGame\bin\Debug\net8.0\DragonBallGame.exe
+D:\Swinburne\OOP\Projects\DragonBallGame\bin\Debug\net8.0\DragonBallGame.deps.json
+D:\Swinburne\OOP\Projects\DragonBallGame\bin\Debug\net8.0\DragonBallGame.runtimeconfig.json
+D:\Swinburne\OOP\Projects\DragonBallGame\bin\Debug\net8.0\DragonBallGame.dll
+D:\Swinburne\OOP\Projects\DragonBallGame\bin\Debug\net8.0\DragonBallGame.pdb
+D:\Swinburne\OOP\Projects\DragonBallGame\obj\Debug\net8.0\DragonBallGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Swinburne\OOP\Projects\DragonBallGame\obj\Debug\net8.0\DragonBallGame.AssemblyInfoInputs.cache
+D:\Swinburne\OOP\Projects\DragonBallGame\obj\Debug\net8.0\DragonBallGame.AssemblyInfo.cs
+D:\Swinburne\OOP\Projects\DragonBallGame\obj\Debug\net8.0\DragonBallGame.csproj.CoreCompileInputs.cache
+D:\Swinburne\OOP\Projects\DragonBallGame\obj\Debug\net8.0\DragonBallGame.dll
+D:\Swinburne\OOP\Projects\DragonBallGame\obj\Debug\net8.0\refint\DragonBallGame.dll
+D:\Swinburne\OOP\Projects\DragonBallGame\obj\Debug\net8.0\DragonBallGame.pdb
+D:\Swinburne\OOP\Projects\DragonBallGame\obj\Debug\net8.0\DragonBallGame.genruntimeconfig.cache
+D:\Swinburne\OOP\Projects\DragonBallGame\obj\Debug\net8.0\ref\DragonBallGame.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DragonBallGame/1.0.0": {
+        "runtime": {
+          "DragonBallGame.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DragonBallGame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
